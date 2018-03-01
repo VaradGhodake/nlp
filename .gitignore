@@ -1,0 +1,4 @@
+*.tar.gz
+*.bin
+stanford-parser-full-2017-06-09/
+stanford-postagger-2017-06-09/
